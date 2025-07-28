@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Eric Edwards (EJHacks)
+# 👋Hi, I’m Eric — a Full-Stack developer and software enthusiast with a keen interest in cybersecurity.   
 
-I'm a software developer passionate about crafting clean and efficient code with JavaScript and Python.  
-Currently working on projects in web development and network security.
+I enjoy building web tools, creating APIs, and exploring new technologies to solve real-world problems.  
+Always learning, always coding, always staying curious about security.
 
----
 
 ## 🛠️ Technologies & Tools
 
