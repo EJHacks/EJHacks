@@ -26,7 +26,7 @@ My portfolio website built with HTML and CSS, designed to showcase my work and g
 
 ## 📊 Most Used Languages
 
-[![EJHacks](https://github-readme-stats.vercel.app/api/top-langs/?username=EJHacks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ejhacks](https://github-readme-stats.vercel.app/api/top-langs/?username=EJHacks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
