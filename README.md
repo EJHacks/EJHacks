@@ -17,9 +17,9 @@ Currently working on projects in web development and network security.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eric-edwards-6b63b22ba)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EJHacks)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](ejhacks.github.io/Portfolio-Website/index.html)
 
 ---
 
