@@ -32,16 +32,12 @@ My portfolio website built with HTML and CSS, designed to showcase my work and g
 
 ## 📈 GitHub Stats
 
-![EJHacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJHacks&show_icons=true&theme=radical)
+[![EJHacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJHacks&show_icons=true&theme=radical)]
 
----
 
-## 📫 Contact Me
 
-- ✉️ Email: ejhacks@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🌍 Portfolio: [Your Live Website Here](https://yourportfolio.example.com)
 
----
+
+
 
 Thanks for stopping by! 🙌
